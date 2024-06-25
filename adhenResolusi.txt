@@ -2,3 +2,5 @@ Resolusi dalam tahun 2024
 - paham tentang fullstack web developer
 - bisa membuat website sendiri
 - bisa desain UI/UX(optional)
+- menambah relasi dengan teman programer
+- ikut seminar dan webinar untuk menambah pengetahuan tentang coding kedepannya
