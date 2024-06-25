@@ -1,0 +1,4 @@
+Resolusi dalam tahun 2024
+- paham tentang fullstack web developer
+- bisa membuat website sendiri
+- bisa desain UI/UX(optional)
